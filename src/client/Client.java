@@ -12,6 +12,7 @@ public class Client {
 	static Student student;
 
 	public static void main(String[] args) {
+		System.out.println("after main method");
 		Service service = new Service();
 		short choice = 0;
 
