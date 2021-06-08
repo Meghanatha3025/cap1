@@ -43,7 +43,10 @@ public class Client {
 				System.out.println("eneter above given choice");
 				break;
 			}
+			System.out.println("end of main");
+
 		} while (true);
+		
 
 	}
 }
